@@ -1067,7 +1067,7 @@ h5 {
 @media (max-width: 469.98px) {
   .growth__title {
     font-size: 30px;
-    margin: 0px 0px 40px 0px;
+    margin: 0px 0px 30px 0px;
   }
 }
 .growth__body {
@@ -1098,11 +1098,6 @@ h5 {
         justify-content: space-around;
   }
 }
-@media (max-width: 469.98px) {
-  .growth__body {
-    margin: 0;
-  }
-}
 .growth__column {
   padding: 0px 40px;
 }
@@ -1117,7 +1112,6 @@ h5 {
   font-size: 35px;
   min-height: 50px;
   line-height: 50px;
-  margin: 0px 0px 20px 0px;
 }
 @media (max-width: 767.98px) {
   .growth__item {
@@ -2347,6 +2341,7 @@ h5 {
   background-color: #fff;
 }
 .leave__button {
+  color: #000;
   width: 100%;
   height: 80px;
   border-radius: 7px;
